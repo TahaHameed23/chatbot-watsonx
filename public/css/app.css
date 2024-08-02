@@ -150,9 +150,6 @@ div {
     padding: 0 0.91rem 0 0;
 }
 
-.from-user .message-inner:before {
-}
-
 .from-user .message-inner:after {
     background-image: url("../img/customer.png");
     z-index: 2;
